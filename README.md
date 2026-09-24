@@ -8,7 +8,7 @@ A 3D biplane model designed in Onshape. I created the body, wings, stabilizers, 
 
 ## Onshape Project
 
-[View and explore the project in Onshape](https://cad.onshape.com/documents/1a4a7d1e4b27d0cb9730ff7c/w/3a1760577ef43014597eb0c0/e/cf1a0eb65ecea8f99998f725?renderMode=0&uiState=6ab56699c3afed83b676b512)
+[View and explore the project in Onshape](https://cad.onshape.com/documents/1a4a7d1e4b27d0cb9730ff7c/w/3a1760577ef43014597eb0c0/e/cf1a0eb65ecea8f99998f725?renderMode=0&uiState=6ab56911c81193fd19ebe294)
 
 ## Files
 
